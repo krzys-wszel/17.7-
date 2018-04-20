@@ -1,0 +1,46 @@
+body {
+   background: lightblue;
+}
+form {
+   text-align: center;
+}
+form p {
+   font-size: 22px;
+   color: black;
+    text-align: center;
+}
+input {
+   height: 40px;
+   font-size: 24px;
+   width: 250px;
+    color: red;
+}
+.btn {
+   width: 100px;
+   cursor: pointer;
+   color: black;
+}
+.btn:hover {
+   color: white;
+   background: green;
+}
+.container {
+   margin: 0 auto;
+   text-align: center;
+   font-size: 48px;
+}
+.container h2 {
+    font-size: 32px;
+    color: red;
+}
+.container h4 {
+    font-size: 24px;
+    color: blue;
+}
+.img {
+   background-image: url('http://googlowanie.blox.pl/resource/6_logo_predesign.jpg');
+   background-size: cover;
+   width: 700px;
+   height: 250px;
+   margin: 0 auto;
+}
